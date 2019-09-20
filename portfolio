@@ -1,0 +1,36 @@
+<!DOCUTYPE html>
+
+<!--
+Name:Raul Alvarado
+Date created:9/20/2019
+Most recent revision: -->
+
+
+<html>
+<head>
+<title>Raul's Portfolio</title>
+</head>
+
+
+<body>
+
+   <h1>Portfolio for Raul Alvarado</h1>
+
+
+   <hr />
+   <!-- We need to add links to projects.html, contact.html, and testimonials.html -->
+   <p></p>
+   <hr />
+
+   <h2><em>About Me</em></h2>
+
+   <h2><em>Past Experiences</em></h2>
+
+   <h2><em>Hobbies</em></h2>
+
+   <hr />
+
+
+
+</body>
+</html>
